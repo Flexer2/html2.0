@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	color: white;
+}
+header{
+	display:flex;
+	justify-content: center;
+}
+.logo, .menu{
+	margin-right: 150px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.menu li{
+	margin-right: 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.menu a{
+	font-family: arial;
+	font-size: 17px;
+	color: white;
+	vertical-align: middle;
+}
+.logo h1{
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+	vertical-align: middle;
+}
+	
